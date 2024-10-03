@@ -4,6 +4,10 @@
 
 // return -1
 
+//Name:Remas abdulsattar abo khalil
+//id:444003748
+
+
 class LinearSearch {
 
             // This function returns index of element x in arr[]
